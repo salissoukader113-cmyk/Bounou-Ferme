@@ -1,0 +1,16 @@
+{
+  "short_name": "Bounou Ferme",
+  "name": "Bounou Ferme",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Emoji_u1f33e.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#f4f9f4",
+  "theme_color": "#2e7d32",
+  "display": "standalone",
+  "orientation": "portrait"
+}
